@@ -26,6 +26,6 @@ I enjoy working on problems in:
 ---
 
 ### 📫 Connect with Me
-- LinkedIn: *(add link later if you want)*
-- Email: *(optional)*
+- LinkedIn: www.linkedin.com/in/sanjith-sampath-22b152386
+- Email: sanjithschen@gmail.com
 
